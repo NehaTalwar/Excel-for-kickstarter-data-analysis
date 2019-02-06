@@ -1,2 +1,2 @@
-# Excel-homework
+# Excel
 Analysis of the Kickstarter crowdfunding project.
